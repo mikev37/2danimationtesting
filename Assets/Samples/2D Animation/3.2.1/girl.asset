@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: girl
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: L. Hands.
+    m_Hash: -162218097
+    m_CategoryList:
+    - m_Name: Fist
+      m_Hash: -1958234302
+      m_Sprite: {fileID: -2217282520312347496, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: PalmDown
+      m_Hash: -1629948102
+      m_Sprite: {fileID: 5048791265921806382, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: PalmUp
+      m_Hash: -1087881396
+      m_Sprite: {fileID: -2308676183399222997, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+  - m_Name: R. Hands
+    m_Hash: -1950185532
+    m_CategoryList:
+    - m_Name: Fist
+      m_Hash: -1958234302
+      m_Sprite: {fileID: -1894410236307015622, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: PalmDown
+      m_Hash: -1629948102
+      m_Sprite: {fileID: -9209409744540436796, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: PalmUp
+      m_Hash: -1087881396
+      m_Sprite: {fileID: -1065569002090917638, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+  - m_Name: L.Boot
+    m_Hash: 1882334263
+    m_CategoryList:
+    - m_Name: Side
+      m_Hash: -2085374837
+      m_Sprite: {fileID: -674853381891767608, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: Front
+      m_Hash: 1060785650
+      m_Sprite: {fileID: 2779191594621303332, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+  - m_Name: R. Boot
+    m_Hash: 316322372
+    m_CategoryList:
+    - m_Name: Side
+      m_Hash: -2085374837
+      m_Sprite: {fileID: 141859579612135631, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: Front
+      m_Hash: 1060785650
+      m_Sprite: {fileID: -711220497036099120, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+  - m_Name: L.Socks
+    m_Hash: 973279720
+    m_CategoryList:
+    - m_Name: Side
+      m_Hash: -2085374837
+      m_Sprite: {fileID: 7575224287911765892, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: Front
+      m_Hash: 1060785650
+      m_Sprite: {fileID: -5417416753676791241, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+  - m_Name: R Socks
+    m_Hash: 937989899
+    m_CategoryList:
+    - m_Name: Side
+      m_Hash: -2085374837
+      m_Sprite: {fileID: 5677950164375644010, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: Front
+      m_Hash: 1060785650
+      m_Sprite: {fileID: 5818258867466985899, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+  - m_Name: L Foot
+    m_Hash: 1080036609
+    m_CategoryList:
+    - m_Name: Side
+      m_Hash: -2085374837
+      m_Sprite: {fileID: 687639528645327573, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: Front
+      m_Hash: 1060785650
+      m_Sprite: {fileID: 5864983984906830606, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+  - m_Name: R Foot
+    m_Hash: 2042392298
+    m_CategoryList:
+    - m_Name: Side
+      m_Hash: -2085374837
+      m_Sprite: {fileID: 6701722477813596825, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
+    - m_Name: Front
+      m_Hash: 1060785650
+      m_Sprite: {fileID: -6006605747945742873, guid: e4944791fef990c4fa72c158c3cca4f7,
+        type: 3}
